@@ -1,1 +1,1 @@
-include ':IamgeDemo'
+include ':IamgeDemo', ':edittextdemo'
