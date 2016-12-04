@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:paddingBottom="5dp">
+
+        <RadioButton
+            android:id="@+id/download_rbtn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:button="@null"
+            android:checked="true"
+            android:drawableTop="@drawable/download_bg_selector"
+            android:gravity="center"
+            android:text="下载"
+            android:textColor="@drawable/text_color_selector" />
+
+        <RadioButton
+            android:id="@+id/lbs_rbtn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:button="@null"
+            android:drawableTop="@drawable/lbs_bg_selector"
+            android:gravity="center"
+            android:text="位置"
+            android:textColor="@drawable/text_color_selector" />
+
+        <RadioButton
+            android:id="@+id/remind_rbtn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:button="@null"
+            android:drawableTop="@drawable/remind_bg_selector"
+            android:gravity="center"
+            android:text="提醒"
+            android:textColor="@drawable/text_color_selector" />
+
+    </RadioGroup>
+
+
+</RelativeLayout>
