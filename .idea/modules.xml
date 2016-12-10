@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BlogProject.iml" filepath="$PROJECT_DIR$/BlogProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/IamgeDemo/IamgeDemo.iml" filepath="$PROJECT_DIR$/IamgeDemo/IamgeDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinearLayoutDemo/LinearLayoutDemo.iml" filepath="$PROJECT_DIR$/LinearLayoutDemo/LinearLayoutDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/RadioButtonAndCheckBoxDemo/RadioButtonAndCheckBoxDemo.iml" filepath="$PROJECT_DIR$/RadioButtonAndCheckBoxDemo/RadioButtonAndCheckBoxDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/edittextdemo/edittextdemo.iml" filepath="$PROJECT_DIR$/edittextdemo/edittextdemo.iml" />
     </modules>

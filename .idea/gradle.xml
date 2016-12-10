@@ -10,6 +10,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/IamgeDemo" />
+            <option value="$PROJECT_DIR$/LinearLayoutDemo" />
             <option value="$PROJECT_DIR$/RadioButtonAndCheckBoxDemo" />
             <option value="$PROJECT_DIR$/edittextdemo" />
           </set>
