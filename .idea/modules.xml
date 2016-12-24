@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BlogProject.iml" filepath="$PROJECT_DIR$/BlogProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FrameLayoutAndRelativeLayout/FrameLayoutAndRelativeLayout.iml" filepath="$PROJECT_DIR$/FrameLayoutAndRelativeLayout/FrameLayoutAndRelativeLayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/IamgeDemo/IamgeDemo.iml" filepath="$PROJECT_DIR$/IamgeDemo/IamgeDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinearLayoutDemo/LinearLayoutDemo.iml" filepath="$PROJECT_DIR$/LinearLayoutDemo/LinearLayoutDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/RadioButtonAndCheckBoxDemo/RadioButtonAndCheckBoxDemo.iml" filepath="$PROJECT_DIR$/RadioButtonAndCheckBoxDemo/RadioButtonAndCheckBoxDemo.iml" />

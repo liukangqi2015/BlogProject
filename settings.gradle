@@ -1,1 +1,1 @@
-include ':IamgeDemo', ':edittextdemo', ':RadioButtonAndCheckBoxDemo', ':LinearLayoutDemo'
+include ':IamgeDemo', ':edittextdemo', ':RadioButtonAndCheckBoxDemo', ':LinearLayoutDemo', ':FrameLayoutAndRelativeLayout'

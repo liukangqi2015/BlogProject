@@ -9,6 +9,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/FrameLayoutAndRelativeLayout" />
             <option value="$PROJECT_DIR$/IamgeDemo" />
             <option value="$PROJECT_DIR$/LinearLayoutDemo" />
             <option value="$PROJECT_DIR$/RadioButtonAndCheckBoxDemo" />
